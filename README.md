@@ -32,8 +32,7 @@ O sistema pode ser expandido futuramente para diferentes finalidades, como cadas
 - HTML  
 - CSS  
 - JavaScript  
-- PHP (opcional)  
-- Banco de dados (MySQL ou SQLite — opcional nesta fase)  
+- PHP 
 - Git & GitHub  
 
 ---
