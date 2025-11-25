@@ -41,6 +41,6 @@ O sistema pode ser expandido futuramente para diferentes finalidades, como cadas
 ## Como executar o projeto
 
 ```bash
-git clone https://github.com/beatrizvieirarst2/sistema-de-cadastro
+
 ```bash
-git clone https://github.com/seuusuario/nome-do-repositorio
+git clone https://github.com/beatrizvieirarst2/sistema-de-cadastro
