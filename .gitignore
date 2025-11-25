@@ -12,6 +12,10 @@
 
 # Package Files #
 *.jar
+*.html
+*.js
+*.php
+*.css
 *.war
 *.nar
 *.ear
