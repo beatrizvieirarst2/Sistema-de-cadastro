@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cadastro de Usuário</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <header>
+        <h1>Cadastro de Usuário</h1>
+        <nav>
+            <a href="index.html">Home</a>
+            <a href="cadastro.html">Cadastrar</a>
+        </nav>
+    </header>
+
+    <main>
+        <form id="formCadastro">
+            <h2>Preencha os dados abaixo</h2>
+
+            <label>Nome:</label>
+            <input type="text" id="nome" required>
+
+            <label>E-mail:</label>
+            <input type="email" id="email" required>
+
+            <label>Telefone:</label>
+            <input type="text" id="telefone" required>
+
+            <button type="submit">Cadastrar</button>
+        </form>
+
+        <section id="listaUsuarios">
+            <h2>Usuários cadastrados</h2>
+            <ul id="usuarios"></ul>
+        </section>
+    </main>
+
+    <script src="script.js"></script>
+</body>
+</html>
